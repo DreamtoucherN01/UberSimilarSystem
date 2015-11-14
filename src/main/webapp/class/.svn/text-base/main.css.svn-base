@@ -1,0 +1,177 @@
+.body {
+	background-color: #FFE4E1;
+}
+
+.div1 {
+	background-color: #F4A460;
+	width: 35%;
+	height: 500px;
+	margin-top: 30px;
+	margin-left: 2%;
+	float: left;
+	border: 1px solid #F4A460;
+}
+
+.div1-p1 {
+	background-color: #FFFFFF;
+	font-size: 25px;
+	font-family: sans-serif;
+	color: #8B4513;
+}
+
+.div1-p {
+	width: 80%;
+	float: left;
+}
+
+.div1-form {
+	margin-left: 10%;
+	margin-top: 12%;
+	float: left;
+}
+
+.div1-input {
+	float: right;
+	margin-left;
+}
+
+.div1-div1 {
+	width: 30%;
+	float: left;
+	height: 200px;
+}
+
+.div1-div2 {
+	float: left;
+	width: 50%;
+	margin-left: 0%;
+	height: 200px;
+	margin-right: 40px;
+}
+
+.div1-div3 {
+	margin-left: 38%;
+	float: left;
+	margin-top: 20px;
+	height: 40px;
+}
+
+.div1-div4 {
+	float: left;
+	margin-top: 20px;
+	height: 75px;
+	width: 90%;
+	background-color: white;
+}
+
+.div2 {
+	background-color: #F0E68C;
+	width: 55%;
+	height: 500px;
+	margin-top: 30px;
+	margin-left: 3%;
+	float: left;
+	border: 1px solid #F0E68C;
+}
+
+.div2-form {
+	
+}
+
+.div2-div1 {
+	margin-top: 5px;
+	width: 100%;
+	height: 80px;
+	margin-left: 10px;
+}
+
+.div2-div1-1 {
+	float: left;
+	margin-right: 10px;
+}
+
+.div2-div1-2 {
+	float: left;
+	margin-left: 8%;
+	margin-top: 4%;
+}
+
+.div2-div2 {
+	margin-top: 20px;
+	width: 100%;
+	height: 340px;
+}
+
+.table {
+	border: 1px solid red;
+	border-radius: 5px;
+	width: 90%;
+	margin-left: 5%;
+	height: 340px;
+	text-align: center;
+	overflow-x: auto;
+	overflow-y: auto;
+}
+
+.div3 {
+	background-color: #40E0D0;
+	width: 93%;
+	height: 300px;
+	margin-top: 20px;
+	margin-left: 2%;
+	float: left;
+	border: 1px solid #40E0D0;
+}
+
+.div3-p1 {
+	background-color: #FFFFFF;
+	font-size: 25px;
+	font-family: sans-serif;
+	color: #8B4513;
+}
+
+./
+div3-form {
+	margin-left: 10%;
+	margin-top: 12%;
+	float: left;
+}
+
+.div3-div1 {
+	margin-left: 4%;
+	margin-top: 20px;
+	width: 20%;
+	float: left;
+	height: 100px;
+	background-color: white;
+}
+
+.div3-div2 {
+	float: left;
+	margin-top: 20px;
+	width: 30%;
+	margin-left: 1%;
+	height: 200px;
+	padding-top: 5%;
+	padding-left: 5%;
+	align: center;
+}
+
+.div3-div3 {
+	margin-left: 1%;
+	margin-top: 20px;
+	float: left;
+	width: 30%;
+	height: 200px;
+	padding-top: 5%;
+	padding-left: 5%;
+	align: center;
+}
+
+.div3-infor {
+	padding-top: 20%;
+}
+
+.div3-mid {
+	padding-top: 20%;
+}

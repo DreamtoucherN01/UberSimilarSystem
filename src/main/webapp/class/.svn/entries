@@ -1,0 +1,40 @@
+8
+
+dir
+1
+svn://192.168.10.157/svn/src/main/webapp/class
+svn://192.168.10.157
+
+
+
+2015-05-15T03:09:04.410766Z
+1
+hello
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+056a0fb1-fbc0-4b86-82c4-529acd916a6a
+
+main.css
+file
+
+
+
+
+2015-05-15T08:52:10.000000Z
+e557c2f306827a7a726de85e635f62a9
+2015-05-15T03:09:04.410766Z
+1
+hello
+
